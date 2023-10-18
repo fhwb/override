@@ -1,0 +1,16 @@
+{
+	"FixedItems": [
+		"Weapon_SVD_Dragunov",
+		"Magazine_SVD_Dragunov",
+		"Magazine_SVD_Dragunov",
+		"Cal_7_62x54mmR_AP_Ammobox",
+		"Cal_7_62x54mmR_AP_Ammobox",
+		"WeaponScope_Dragunov",
+		"ScopeRail_AK47",
+		"WeaponSuppressor_SVD"
+	],
+	"InitialDamage": 0,
+	"RandomDamage": 0,
+	"InitialUsage": 0,
+	"RandomUsage": 0
+}
